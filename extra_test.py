@@ -1,0 +1,1 @@
+print("This is the test code for git commit exercise")
